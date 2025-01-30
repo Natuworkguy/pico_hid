@@ -1,4 +1,4 @@
-# USB HID Keyboard Emulator
+# pico_hid | USB HID Keyboard Emulator
 
 This Python script emulates a USB keyboard using CircuitPython and the Adafruit HID library. It allows automated keystroke input, including typing full strings with customizable delays.
 
